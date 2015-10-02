@@ -1,0 +1,25 @@
+// Prelude
+
+// Regular
+@font-face {
+  font-family: 'Prelude';
+  src: url('https://s3.amazonaws.com/assets.labibrahman.com/typefaces/Prelude/PreludeWGL-Medium.eot'); /* IE9 Compat Modes */
+  src: url('PreludeWGL-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://s3.amazonaws.com/assets.labibrahman.com/typefaces/Prelude/PreludeWGL-Medium.woff') format('woff'), /* Modern Browsers */
+       url('https://s3.amazonaws.com/assets.labibrahman.com/typefaces/Prelude/PreludeWGL-Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('https://s3.amazonaws.com/assets.labibrahman.com/typefaces/Prelude/PreludeWGL-Medium.svg#1243d118223cd48a4306fb16e622fe32') format('svg'); /* Legacy iOS */
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Prelude';
+  src: url('https://s3.amazonaws.com/assets.labibrahman.com/typefaces/Prelude/PreludeWGL-Bold.eot'); /* IE9 Compat Modes */
+  src: url('PreludeWGL-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://s3.amazonaws.com/assets.labibrahman.com/typefaces/Prelude/PreludeWGL-Bold.woff') format('woff'), /* Modern Browsers */
+       url('https://s3.amazonaws.com/assets.labibrahman.com/typefaces/Prelude/PreludeWGL-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('https://s3.amazonaws.com/assets.labibrahman.com/typefaces/Prelude/PreludeWGL-Bold.svg#1243d118223cd48a4306fb16e622fe32') format('svg'); /* Legacy iOS */
+  font-style:   normal;
+  font-weight:  700;
+}
+

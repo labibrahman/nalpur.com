@@ -2,3 +2,36 @@
 // ======
 
 @import "grids";
+@import "reset";
+@import "fonts";
+@import "modular-scale";
+
+$ms-base: 18px;
+$ms-ratio: $golden;
+
+body {
+     font: {
+        family: Prelude;
+        weight: 400;
+        size: ms(1);
+    }
+    padding: ms(3.5);
+    line-height: ms(1.4);
+
+}
+
+h3 {
+    font: {
+        weight: 700;
+        size: ms(2);
+    }
+    line-height: ms(2);
+    padding: {
+        top: ms(2);
+        bottom: ms(2);
+    }
+}
+
+p, li {
+    padding-bottom: ms(1);
+}
