@@ -65,19 +65,19 @@ table {
 body {
   font-family: Prelude;
   font-weight: 400;
-  font-size: 29px;
-  padding: 97px;
-  line-height: 35px;
+  font-size: 39px;
+  padding: 63px;
+  line-height: 47px;
 }
 
 h3 {
   font-weight: 700;
-  font-size: 47px;
-  line-height: 47px;
-  padding-top: 47px;
-  padding-bottom: 47px;
+  font-size: 63px;
+  line-height: 63px;
+  padding-top: 63px;
+  padding-bottom: 63px;
 }
 
 p, li {
-  padding-bottom: 29px;
+  padding-bottom: 39px;
 }
